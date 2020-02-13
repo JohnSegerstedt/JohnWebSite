@@ -55,9 +55,9 @@
 			</div><!-- end content -->
 		</div><!-- end inner_wrapper -->
 		
-		<div id = "inv">
+		<div class = "inv">
 		<br>
-		Any image, logo, or other art asset from 3Buttons are intelectal property of John Segerstedt, Sweden.
+		Any image, logo, or other asset from 3Buttons are intelectal property of John Segerstedt, Sweden.
 		</div>
 	</div><!-- end outer_wrapper -->
 	
