@@ -16,7 +16,6 @@ max-width:1950px;
 
 .hero-image {
 background-image: url("img/capsule.png");
-/*   background-image: url("img/large_background.png"); */
 background-color: #cccccc;
 min-height: 220px;
 background-position: center;
@@ -129,7 +128,6 @@ bottom:0px;
 }
 
 .list_object{
-/* background-color:#000; */
 height:300px;
 }
 
@@ -142,8 +140,7 @@ background-position: center;
 background-repeat: no-repeat;
 background-size: contain;
 display: inline-block;
-float: left; /* OBS */
-/* background-color:#456; */
+float: left;
 }
 
 .list_content{
@@ -154,30 +151,10 @@ position:relative;
 display: inline-block;
 float: left;
 width: 1100px;
-/* background-color:#123; */
 }
 
 .bottom{
 position: absolute;
 width: 1100px;
 bottom: 0;
-/* background-color:#756; */
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
