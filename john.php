@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="icon" href="img/favicon.jpg">
-<title>Din Datorbyggare</title>
+<link rel="icon" href="img/favicon.ico">
+<title>John Segerstedt</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" charset = "utf-8"> <!-- fixar mobilanpassning -->
 	<link rel = "stylesheet" type = "text/css" href = "style.css" media = "all">
 	<script type = "text/javascript" src = "jq.js"></script>
@@ -55,7 +55,7 @@
 			</div><!-- end content -->
 		</div><!-- end inner_wrapper -->
 		
-		<div class = "inv">
+		<div id = "inv">
 		<br>
 		Any image, logo, or other asset from 3Buttons are intelectal property of John Segerstedt, Sweden.
 		</div>

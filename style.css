@@ -120,12 +120,12 @@ min-height:400px;
 font-size: 16pt;
 }
 
-.inv{
+#inv{
 height:20px;
 font-size:8px;
 color:white;
 text-align:center;
-bottom:0;
+bottom:0px;
 }
 
 .list_object{
