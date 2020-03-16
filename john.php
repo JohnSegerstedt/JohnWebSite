@@ -16,7 +16,10 @@
 </head>
 
 <?php
-$page = $_GET['page'];
+$page = "";
+if(isset($_GET['page'])){
+	$page = $_GET['page'];
+}
 if($page != "introduction" && $page != "resume" && $page != "progproj" && $page != "uniwork" && $page != "other"){
 	$page = "introduction";
 }
