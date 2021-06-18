@@ -1,3 +1,9 @@
+
+a:link {color: lightblue;}  
+a:visited {color: #060235}  
+a:hover {color: #FCFC0C}  
+a:active {color: #C0F0FC}  
+   
 h4{
 margin:0;
 padding:0;
